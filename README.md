@@ -14,7 +14,7 @@ This dashboard was built as a practice excersise to learn data cleaning and visu
 &nbsp;
 
 
-The dashboard above is the final result Do checkout my entire work by downloading the .xlsx file. I'll appreciate your feedback :)
+The dashboard above is the final result. Do checkout my entire work by downloading the .xlsx file. I'll appreciate your feedback :)
 
 Also, If you want to give this exercise a try, here's the link to the [dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx).
 
