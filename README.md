@@ -18,5 +18,5 @@ The dashboard above is the final result. Do checkout my entire work by downloadi
 
 Also, If you want to give this exercise a try, here's the link to the [dataset](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx).
 
-
+&nbsp;
 Happy learning!
